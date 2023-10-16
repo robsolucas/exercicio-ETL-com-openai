@@ -39,7 +39,7 @@ users = [get_user(id=ID) for ID in user_IDs if get_user(id=ID) is not None]
 
 # TRANSFORMACAO
 # chave da api openai
-open_ai_key = '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'
+open_ai_key = '~bla bla bla~'
 openai.api_key = open_ai_key
 
 # criando a funcao para personalizar a mensagem
